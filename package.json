@@ -1,0 +1,24 @@
+{
+  "name": "leapify",
+  "version": "1.0.0",
+  "description": "Control your spotify OSX desktop app with just a Leapmotion and some handy dandy hands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ananthamapod/Leapify.git)"
+  },
+  "keywords": [
+    "Leapmotion",
+    "Spotify"
+  ],
+  "author": "Ananth Rao, David Awad",
+  "license": "ISC",
+  "dependencies": {
+    "exec": "^0.2.1",
+    "leapjs": "^0.6.4",
+    "sys": "0.0.1"
+  }
+}
