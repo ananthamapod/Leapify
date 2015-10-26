@@ -2,7 +2,7 @@
 
 Control your spotify OSX desktop app with just a Leapmotion and some handy dandy hands! This app uses the Spotify API with AppleScript and the Node.js implementation of the Leapmotion API to allow an OSX user to do just that.
 
-This project was built at [HackUMass](http://hackumass.com)
+This project was built at [HackUMass](http://hackumass.com) by Ananth Rao and David Awad.
 ## Run Locally
 
 Nothing to it. Just bring it into a directory and use ```npm install``` to install dependencies.
